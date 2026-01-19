@@ -36,7 +36,7 @@ opencv-python==4.5.1.48
 Pillow==8.2.0
 psycopg2==2.8.6
 psycopg2-binary==2.8.6
-pyasn1==0.4.8
+pyasn1==0.6.2
 pyasn1-modules==0.2.8
 pycparser==2.20
 PyJWT==2.0.1
@@ -53,5 +53,5 @@ soupsieve==2.2.1
 sqlparse==0.4.1
 Twisted==21.2.0
 txaio==21.2.1
-urllib3==1.26.4
+urllib3==2.6.3
 zope.interface==5.4.0
